@@ -1,3 +1,4 @@
+#include <iostream>
 #include "SmartPhone.h"
 
 using namespace std;

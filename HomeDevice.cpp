@@ -1,8 +1,9 @@
+#include <iostream>
 #include "HomeDevice.h"
 
 using namespace std;
 
-HomeDevice::HomeDevice(const string& type, const string& brand, const string& resol)
+HomeDevice::HomeDevice(const string& type, const string& brand, const string& resol) 
 {
     _type = type;
     _brand = brand;

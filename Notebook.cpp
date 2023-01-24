@@ -1,3 +1,4 @@
+#include <iostream>
 #include "Notebook.h"
 
 using namespace std;
